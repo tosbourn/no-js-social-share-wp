@@ -1,0 +1,40 @@
+  .social {
+        padding: 1%;
+        display: inline-block;
+        margin: 1.5%
+    }
+
+    .facebook {
+        background-color: #3C5A98;
+        color: #FFFFFF;
+    }
+
+    .twitter {
+        background-color: #DBF7F8;
+        color: #2D6491;
+    }
+
+    .google {
+        background-color: #D14836;
+        color: #FFFFFF;
+    }
+
+    .linkedin {
+        background-color: #185C80;
+        color: #FFFFFF;
+    }
+
+    .reddit {
+      background-color: #CEE3F8;
+      color: #000000;
+    }
+
+    .hackernews {
+      background-color: #FF6600;
+      color: #000000;
+    }
+
+    .buffer {
+      background-color: #70BE6A;
+      color: #FFFFFF;
+    }
